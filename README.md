@@ -14,3 +14,18 @@ usage:
 (ii) run the matlab program Keyword_detection.m and the last section in the program will give the matching information between a pair of speech utterances. 
 
 Source code is tested in Matlab 2016B, Linux Environment.
+
+# Citation 
+
+If you use the code for research work, please cite:
+```
+@article{R20211,
+title = {Phoneme Segmentation-Based Unsupervised Pattern Discovery and Clustering of Speech Signals},
+journal = { Circuits Systems and Signal Process},
+year = {2021},
+doi = {https://doi.org/10.1007/s00034-021-01876-6},
+url = {https://link.springer.com/article/10.1007/s00034-021-01876-6},
+author = {Kishore Kumar R and Sreenivasa Rao K}
+}
+
+```
